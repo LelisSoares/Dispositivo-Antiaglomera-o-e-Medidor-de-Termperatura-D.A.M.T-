@@ -3,4 +3,5 @@ O projeto tem como objetivo prevenir aglomerações em estabelecimentos, atravé
 também com a integração de outro projeto para a medição da temperatura corporal, sendo ele o *projeto termômetro automático*, que pode ser acessado via GitHub clicando aqui.  
 
 
-<a href="https://github.com/LelisSoares/Projeto-termometro-automatico-"target="_blank">click aqui</a>
+
+[click aqui](https://github.com/LelisSoares/Projeto-termometro-automatico-)
