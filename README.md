@@ -9,7 +9,7 @@ Para realizar a montagem desse projeto de forma completa você terá também que
 # 3. Montagem
 Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e os modelos 3D das peças.
 
-# *3.1 Lista de compnentes*
+# 3.1 *Lista de compnentes*
 
     1x - ESP-32;
 
