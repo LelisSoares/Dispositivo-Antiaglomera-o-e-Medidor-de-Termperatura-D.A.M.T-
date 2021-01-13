@@ -10,6 +10,8 @@ Para realizar a montagem desse projeto de forma completa você terá também que
 Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e os modelos 3D das peças.
 
 # 3.1 Lista de compnentes eletrônicos e circuito esquemático
+Esse tópico aborda os elementos e o arranjo para a confecção da PCI de controle geral que fica fixada dentro da carcaça do display contador, como pode ser visto na imagem abaixo.
+
 
     1x - Arduino Nano;
 
@@ -41,7 +43,9 @@ Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e
 
     Vários jumpers fêmea/fêmea.
     
- Para uma melhor visualização o circuito do trabalho acesse o arquivo **Circuito esquemático** nesse repositório.
+ Para uma melhor visualização o circuito do trabalho acesse e baixe o arquivo **Circuito esquemático** nesse repositório.
  ![Schematic_CIRCUITO D A M T_2021-01-13](https://user-images.githubusercontent.com/75312838/104493856-6ca29280-55b4-11eb-98ae-5f2006e73a3e.png)
+ 
+ É importante deixar alguns pontos claros nesse circuito, pimeiro os 
 
  
