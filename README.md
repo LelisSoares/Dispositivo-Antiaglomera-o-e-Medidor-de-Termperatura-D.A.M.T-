@@ -12,7 +12,8 @@ Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e
 # 3.1 Lista de compnentes eletrônicos e circuito esquemático
 Esse tópico aborda os elementos e o arranjo para a confecção da PCI de controle geral que fica fixada dentro da carcaça do **Display contador**, como pode ser visto abaixo.
 
-![gif2](https://user-images.githubusercontent.com/75312838/104497065-952c8b80-55b8-11eb-9b3b-7f40fe277cb3.gif)
+![Display contador com legenda](https://user-images.githubusercontent.com/75312838/104498151-120c3500-55ba-11eb-9df5-c8b39925f7b2.PNG)
+
 
     1x - Arduino Nano;
 
