@@ -31,7 +31,7 @@ Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e
     
     40x - Pinos Fêmea;
 
-    1x - PCI;
+    1x - PCI (de aproximadamente 60x100mm);
 
     1x - Chave ON/OFF;
 
