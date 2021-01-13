@@ -1,6 +1,6 @@
 # 1. Dispositivo Antiaglomeração e Medidor de Termperatura (D.A.M.T)
 O projeto tem como objetivo prevenir aglomerações em estabelecimentos, promovendo uma diminuição do rsico de contamenação pelo Coronavírus, através da contagem e limitação de um número máximo de pessoas num mesmo ambiente. Conta 
-também com a integração de outro projeto para a medição da temperatura corporal, sendo ele o *projeto termômetro automático*, que pode ser acessado via GitHub [clicando aqui](https://github.com/LelisSoares/Projeto-termometro-automatico-). Abaixo é mostrado o funcionamento do dispositivo e para acessar o vídeo completo [click aqui](https://youtu.be/dMgaaTF5XD0)
+também com a integração de outro projeto para a medição da temperatura corporal, sendo ele o *projeto termômetro automático*, que pode ser acessado via GitHub [clicando aqui](https://github.com/LelisSoares/Projeto-termometro-automatico-). Abaixo é mostrado o funcionamento do dispositivo e para maior compreensão visual do trabalho acesse o vídeo completo [click aqui](https://youtu.be/dMgaaTF5XD0)
 ![FINAL 1](https://user-images.githubusercontent.com/75312838/104361737-9cd52d00-54f1-11eb-955f-7eca2d26e434.gif)
 
 # 2. Duas formas de funcionamento
@@ -10,7 +10,7 @@ Para realizar a montagem desse projeto de forma completa você terá também que
 Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e os modelos 3D das peças.
 
 # 3.1 Lista de compnentes eletrônicos e circuito esquemático
-Esse tópico aborda os elementos e o arranjo para a confecção da PCI de controle geral que fica fixada dentro da carcaça do **Display contador**, como pode ser visto abaixo.
+Esse tópico aborda os elementos e o arranjo para a confecção da PCI de controle geral, que fica fixada dentro da carcaça do **Display contador**, como pode ser visto abaixo.
 
 ![Display contador com legenda](https://user-images.githubusercontent.com/75312838/104498151-120c3500-55ba-11eb-9df5-c8b39925f7b2.PNG)
 
