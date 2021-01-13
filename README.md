@@ -10,7 +10,8 @@ Para realizar a montagem desse projeto de forma completa você terá também que
 Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e os modelos 3D das peças.
 
 # 3.1 Lista de compnentes eletrônicos e circuito esquemático
-Esse tópico aborda os elementos e o arranjo para a confecção da PCI de controle geral que fica fixada dentro da carcaça do display contador, como pode ser visto abaixo.
+Esse tópico aborda os elementos e o arranjo para a confecção da PCI de controle geral que fica fixada dentro da carcaça do **Display contador**, como pode ser visto abaixo.
+
 ![gif2](https://user-images.githubusercontent.com/75312838/104497065-952c8b80-55b8-11eb-9b3b-7f40fe277cb3.gif)
 
 
