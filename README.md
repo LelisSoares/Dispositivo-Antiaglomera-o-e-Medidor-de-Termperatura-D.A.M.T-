@@ -41,7 +41,7 @@ Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e
 
     Vários jumpers fêmea/fêmea.
     
- Para uma melhor visualização o circuito do trabalho acesse o arquivo *Circuito esquemático* nesse repositório.
+ Para uma melhor visualização o circuito do trabalho acesse o arquivo **Circuito esquemático** nesse repositório.
  ![Schematic_CIRCUITO D A M T_2021-01-13](https://user-images.githubusercontent.com/75312838/104493856-6ca29280-55b4-11eb-98ae-5f2006e73a3e.png)
 
  
