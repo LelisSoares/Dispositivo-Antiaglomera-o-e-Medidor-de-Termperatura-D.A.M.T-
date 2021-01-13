@@ -46,9 +46,9 @@ Os componentes utilizados para a confecção da placa foram:
 
     Vários jumpers fêmea/fêmea.
     
- Para uma melhor visualização o circuito do trabalho acesse e baixe o arquivo **Circuito esquemático** nesse repositório.
- ![Schematic_CIRCUITO D A M T_2021-01-13](https://user-images.githubusercontent.com/75312838/104493856-6ca29280-55b4-11eb-98ae-5f2006e73a3e.png)
- 
- É importante deixar alguns pontos claros nesse circuito, pimeiro os 
+Para uma melhor visualização o circuito do trabalho acesse e baixe o arquivo **Circuito esquemático** nesse repositório.
+![Schematic_CIRCUITO D A M T_2021-01-13](https://user-images.githubusercontent.com/75312838/104498992-2f8dce80-55bb-11eb-95d0-47c9767d6dd9.png)
+
+É importante deixar alguns pontos claros nesse circuito, pimeiro os 
 
  
