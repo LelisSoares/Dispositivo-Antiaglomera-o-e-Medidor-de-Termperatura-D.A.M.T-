@@ -50,5 +50,6 @@ Para uma melhor visualização o circuito do trabalho acesse e baixe o arquivo *
 ![Schematic_CIRCUITO D A M T_2021-01-13](https://user-images.githubusercontent.com/75312838/104498992-2f8dce80-55bb-11eb-95d0-47c9767d6dd9.png)
 
 É importante deixar alguns pontos claros nesse circuito. O pimeiro, é que os barramentos **CONT_ENTRADA** e **CONT_SAIDA** se referem as conexões dos conjuntos que compõem os sensores da entrada e da saída, dessa forma os pinos **E1_INP**, **T1_INP** devem ser conectados respectivamente aos pinos **ECHO** e **THRIGER** do primeiro sensor ultrassônico do conjunto do **sensor da enrtada**, ou seja ao sensor ultrassônico que primeiro detecta a pessoa na entrada do estabelecimento, da mesma forma, os pinos **E2_INP**, **T2_INP** devem ser conectados respectivamente aos pinos **ECHO** e **THRIGER** do segundo sensor ultrassônico, ou seja, ao sensor ultrassônico que detecta por último a pessoa na entrada do estabelecimento. De forma análoga essas conexões devem ocorrer no conjunto que compõem o sensor da saída.
+O segundo ponto é que, os pinos **LED_INP** e **LED_OUT** dos barramentos **CONT_ENTRADA** e **CONT_SAIDA** são os pinos de sinalização, devem ser conectados nos leds desses conjuntos.
 
  
