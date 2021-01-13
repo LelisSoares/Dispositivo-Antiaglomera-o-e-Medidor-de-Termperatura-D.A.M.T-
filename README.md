@@ -20,6 +20,12 @@ Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e
     4x - Sensor ultrssônico (HC-SR04);
 
     1x - Potênciometro de 10Khom;
+    
+    3x - Resistores de 1Khom;
+    
+    3x - Resistores de 10Khom;
+    
+    3x - Transistores TIP122;
 
     60x - Pinos macho;
     
