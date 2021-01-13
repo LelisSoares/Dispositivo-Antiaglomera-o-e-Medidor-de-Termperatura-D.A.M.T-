@@ -1,5 +1,5 @@
 # 1. Dispositivo Antiaglomeração e Medidor de Termperatura (D.A.M.T)
-O projeto tem como objetivo prevenir aglomerações em estabelecimentos, através da contagem e limitação de um número máximo de pessoas num mesmo ambiente. Conta 
+O projeto tem como objetivo prevenir aglomerações em estabelecimentos, promovendo uma diminuição do rsico de contamenação pelo Coronavírus, através da contagem e limitação de um número máximo de pessoas num mesmo ambiente. Conta 
 também com a integração de outro projeto para a medição da temperatura corporal, sendo ele o *projeto termômetro automático*, que pode ser acessado via GitHub [clicando aqui](https://github.com/LelisSoares/Projeto-termometro-automatico-). Abaixo é mostrado o funcionamento do dispositivo e para acessar o vídeo completo [click aqui](https://youtu.be/dMgaaTF5XD0)
 ![FINAL 1](https://user-images.githubusercontent.com/75312838/104361737-9cd52d00-54f1-11eb-955f-7eca2d26e434.gif)
 
@@ -9,21 +9,21 @@ Para realizar a montagem desse projeto de forma completa você terá também que
 # 3. Montagem
 Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e os modelos 3D das peças.
 
-# 3.1 *Lista de compnentes*
+# 3.1 Lista de compnentes eletrônicos 
 
-    1x - ESP-32;
+    1x - Arduino Nano;
 
-    1x - Sensor de temperatura (MLX90614);
+    1m - Fita led RGB;
 
-    1x - Display OLED (128x64 0.96" I2C);
+    1x - Display LCD 20x4;
 
-    1x - Sensor ultrssônico (HC-SR04);
+    4x - Sensor ultrssônico (HC-SR04);
 
-    1x - DFPlayer mini;
+    1x - Potênciometro de 10Khom;
 
-    1x - Alto-falante de 4homs;
-
-    1x - AMP de áudio (PAM8403);
+    60x - Pinos macho;
+    
+    40x - Pinos Fêmea;
 
     1x - PCI;
 
