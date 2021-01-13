@@ -14,6 +14,7 @@ Esse tópico aborda os elementos e o arranjo para a confecção da PCI de contro
 
 ![Display contador com legenda](https://user-images.githubusercontent.com/75312838/104498151-120c3500-55ba-11eb-9df5-c8b39925f7b2.PNG)
 
+Os componentes utilizados para a confecção da placa foram:
 
     1x - Arduino Nano;
 
