@@ -40,3 +40,6 @@ Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e
     1x - Fonte de 5V;
 
     Vários jumpers fêmea/fêmea.
+    
+ Para uma melhor visualização o circuito do trabalho acesse o arquivo *Circuito esquemático* nesse repositório.
+ 
