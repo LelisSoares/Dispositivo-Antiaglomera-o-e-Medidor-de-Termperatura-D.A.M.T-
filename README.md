@@ -14,8 +14,6 @@ Esse tópico aborda os elementos e o arranjo para a confecção da PCI de contro
 
 ![gif2](https://user-images.githubusercontent.com/75312838/104497065-952c8b80-55b8-11eb-9b3b-7f40fe277cb3.gif)
 
-
-
     1x - Arduino Nano;
 
     1m - Fita led RGB;
