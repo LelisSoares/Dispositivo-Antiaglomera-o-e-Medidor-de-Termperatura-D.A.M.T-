@@ -3,11 +3,14 @@ O projeto tem como objetivo prevenir aglomerações em estabelecimentos, promove
 também com a integração de outro projeto para a medição da temperatura corporal, sendo ele o *projeto termômetro automático*, que pode ser acessado via GitHub [clicando aqui](https://github.com/LelisSoares/Projeto-termometro-automatico-). Abaixo é mostrado o funcionamento do dispositivo e para maior compreensão visual do trabalho acesse o vídeo completo [click aqui](https://youtu.be/dMgaaTF5XD0)
 ![FINAL 1](https://user-images.githubusercontent.com/75312838/104361737-9cd52d00-54f1-11eb-955f-7eca2d26e434.gif)
 
+
 # 2. Duas formas de funcionamento
 Para realizar a montagem desse projeto de forma completa você terá também que realizar a montagem do *projeto termômetro automático*, acessível [aqui](https://github.com/LelisSoares/Projeto-termometro-automatico-), além de, considerar os subtópicos **tal e tal**. Caso deseje apenas desenvolver a parte da contagem e limitação de pessoas em um estabelecimento, prossiga na leitura e considere o **Tópico X** com as informações sobre as modificações necessárias no código para utilizar apenas essa função.
 
+
 # 3. Montagem
 Nesse tópcio você encontrará a lista dos componentes, circuito esquemático e os modelos 3D das peças.
+
 
 # 3.1 Lista de compnentes eletrônicos e circuito esquemático
 Esse tópico aborda os elementos e o arranjo para a confecção da PCI de controle geral, que fica fixada dentro da carcaça do **Display contador**, como pode ser visto abaixo.
@@ -52,6 +55,7 @@ Para uma melhor visualização o circuito do trabalho acesse e baixe o arquivo *
 É importante deixar alguns pontos claros nesse circuito. O pimeiro, é que os barramentos **CONT_ENTRADA** e **CONT_SAIDA** se referem as conexões dos conjuntos que compõem os sensores da entrada e da saída, dessa forma os pinos **E1_INP**, **T1_INP** devem ser conectados respectivamente aos pinos **ECHO** e **THRIGER** do primeiro sensor ultrassônico do conjunto do **sensor da enrtada**, ou seja ao sensor ultrassônico que primeiro detecta a pessoa na entrada do estabelecimento, da mesma forma, os pinos **E2_INP**, **T2_INP** devem ser conectados respectivamente aos pinos **ECHO** e **THRIGER** do segundo sensor ultrassônico, ou seja, ao sensor ultrassônico que detecta por último a pessoa na entrada do estabelecimento. De forma análoga essas conexões devem ocorrer no conjunto que compõem o sensor da saída.
 
 O segundo ponto é que, os pinos **LED_INP** e **LED_OUT** dos barramentos **CONT_ENTRADA** e **CONT_SAIDA** são os pinos de sinalização, devem ser conectados nos leds desses conjuntos.
+
 
 # 3.2 Circuito esquemático dos sensores da entrada e da saída
 
