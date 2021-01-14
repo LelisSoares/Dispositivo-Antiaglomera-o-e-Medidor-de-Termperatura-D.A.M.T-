@@ -5,7 +5,7 @@ também com a integração de outro projeto para a medição da temperatura corp
 
 
 # 2. Duas formas de funcionamento
-Para realizar a montagem desse projeto de forma completa você terá também que realizar a montagem do *projeto termômetro automático*, acessível [aqui](https://github.com/LelisSoares/Projeto-termometro-automatico-), além de, considerar os subtópicos **3.3 Circuito de integração entre o dispositivo antiaglomeração e o termômetro automático**. Caso deseje apenas desenvolver a parte da contagem e limitação de pessoas em um estabelecimento, prossiga na leitura sem considerar o **Tópico 3.3** com as informações sobre as modificações necessárias no código para utilizar apenas essa função.
+Para realizar a montagem desse projeto de forma completa você terá também que realizar a montagem do *projeto termômetro automático*, acessível [aqui](https://github.com/LelisSoares/Projeto-termometro-automatico-), além de, considerar o subtópico **3.3 Circuito de integração entre o dispositivo antiaglomeração e o termômetro automático**. Caso deseje apenas desenvolver a parte da contagem e limitação de pessoas em um estabelecimento, prossiga na leitura sem considerar o **Tópico 3.3** com as informações sobre as modificações necessárias no código para utilizar apenas essa função.
 
 
 # 3. Montagem
