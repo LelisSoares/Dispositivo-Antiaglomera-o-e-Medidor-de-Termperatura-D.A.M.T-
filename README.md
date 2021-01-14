@@ -74,6 +74,8 @@ O circuito de integração só é necessário se você desejar enviar os dados d
 
 Caso, ainda assim deseje integrar os projetos, o circuito desenvolvido se encontra abaixo, esse circuito é um drive simples e permite a comunicação, por contagem do número de pulsos enviados da ESP-32 do projeto do termômetro automático para o Arduino Nano desse projeto. Esse tipo de comunicação foi escolhida por ser ao meu ver o jeito mais simples de comunicação. A figura abaixo mostra o circuito.
 
+![circuito de integração](https://user-images.githubusercontent.com/75312838/104612720-45f06480-5665-11eb-8f03-3963d8140abd.PNG)
+
 
 
 
