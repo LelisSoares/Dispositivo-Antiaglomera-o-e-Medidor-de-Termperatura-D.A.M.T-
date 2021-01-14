@@ -65,6 +65,7 @@ O trabalho apresenta dois módulos chamados de **sensor da entrada** e **sensor 
 
 Para o fazer o circuito do módulo **sensor da entrada** e do módulo **sensor da saída**, basta seguir o esquemático logo abaixo e caso deseje baixar-lo acesse o arquivo **CIRCUITO DOS SESNORES DA ENTRADA E DA SAIDA** nesse repositório.
 
+https://github.com/LelisSoares/Dispositivo-Antiaglomera-o-e-Medidor-de-Termperatura-D.A.M.T-/issues/8#issue-786032151
 
 
 
