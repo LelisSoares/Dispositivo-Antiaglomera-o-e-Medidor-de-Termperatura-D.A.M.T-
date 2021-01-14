@@ -65,6 +65,7 @@ O trabalho apresenta dois módulos chamados de **sensor da entrada** e **sensor 
 
 Para o fazer o circuito do módulo **sensor da entrada** e do módulo **sensor da saída**, basta seguir o esquemático logo abaixo e caso deseje baixar-lo acesse o arquivo **CIRCUITO DOS SESNORES DA ENTRADA E DA SAIDA** nesse repositório.
 
+![CIRCUITO DOS SESNORES DA ENTRADA E DA SAIDA_2021-01-14](https://user-images.githubusercontent.com/75312838/104603600-57347380-565b-11eb-8b06-ed86da767427.png)
 
 
 
