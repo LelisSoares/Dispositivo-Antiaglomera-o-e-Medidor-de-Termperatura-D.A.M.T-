@@ -68,6 +68,20 @@ Para o fazer o circuito do módulo **sensor da entrada** e do módulo **sensor d
 ![CIRCUITO DOS SESNORES DA ENTRADA E DA SAIDA_2021-01-14](https://user-images.githubusercontent.com/75312838/104603600-57347380-565b-11eb-8b06-ed86da767427.png)
 
 
+# 3.3 Circuito de integração entre o dispositivo antiaglomeração e o termômetro automático
+
+O circuito de integração só é necessário se você desejar enviar os dados de temperatura para o Arduino Nano, isso pode ser interessante caso deseje unir os dados de ambos projetos para integrar com um sistema supervisório por exemplo. Nesse repositório não abordarei a integração com um sistema supervisório, pretendo tratar disso num momento futuro próximo quando esse projeto estiver mais desenvolvido.
+
+Caso, ainda assim deseje integrar os projetos, o circuito desenvolvido se encontra abaixo, esse circuito é um drive simples e permite a comunicação, por contagem do número de pulsos enviados da ESP-32 do projeto do termômetro automático para o Arduino Nano desse projeto. Esse tipo de comunicação foi escolhida por ser ao meu ver o jeito mais simples de comunicação. A figura abaixo mostra o circuito.
+
+
+
+
+
+
+
+
+
 
 
 
