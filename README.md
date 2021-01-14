@@ -63,6 +63,10 @@ O trabalho apresenta dois módulos chamados de **sensor da entrada** e **sensor 
 
 ![sensores de contagem](https://user-images.githubusercontent.com/75312838/104602829-8eeeeb80-565a-11eb-997e-761b9cea8061.PNG)
 
+Para o fazer o circuito do módulo **sensor da entrada** e do módulo **sensor da saída**, basta seguir o esquemático logo abaixo e caso deseje baixar-lo acesse o arquivo **CIRCUITO DOS SESNORES DA ENTRADA E DA SAIDA** nesse repositório.
+
+
+
 
 
  
