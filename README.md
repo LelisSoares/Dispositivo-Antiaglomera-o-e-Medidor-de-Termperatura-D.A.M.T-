@@ -61,7 +61,7 @@ O segundo ponto é que, os pinos **LED_INP** e **LED_OUT** dos barramentos **CON
 
 O trabalho apresenta dois módulos chamados de **sensor da entrada** e **sensor da saída**, ambos são um conjunto formado pela carcaça de cada módulo, um pedaço de fita led, dois sensores ultrassonicos e as conexões elétricas. Os mesmos são fixados de forma simétrica e oposta, onde se convencionou que o módulo da esquerda é o **sensor da entrada** e o módulo da direita é o **sensor da saída**, como pode ser visto na figura abaixo.
 
-![sensores de contagem](https://user-images.githubusercontent.com/75312838/104600301-93fe6b80-5657-11eb-8179-9229d7c58439.PNG)
+![sensores de contagem](https://user-images.githubusercontent.com/75312838/104602829-8eeeeb80-565a-11eb-997e-761b9cea8061.PNG)
 
 
 
